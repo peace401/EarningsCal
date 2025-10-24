@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:C5oynW0inRkQVlLz0SoX2
+UID:1VqrQXVvfOwXotIYpv6mw
 SUMMARY:台积电 发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.59，当前市值: $1\
 	,555\,134\,146\,936。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mk0qoiqEjBRMacnzWIowU
+UID:vAwTAhMoT9EsVKkmFBNoY
 SUMMARY:Coinbase 盘后发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:财务季度：Sep/2025。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $1.06，当前
-	市值: $82\,304\,999\,832。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
+	市值: $82\,929\,359\,553。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
 	 \n在富途查看：https://www.futunn.com/hk/stock/COIN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lqXYRaIVNoqvr4nlBl3FS
+UID:8avccAqEASlLejTLoD45-
 SUMMARY:Cloudflare 盘后发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:财务季度：Sep/2025。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
-	当前市值: $73\,435\,524\,829。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
+	当前市值: $75\,676\,261\,433。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
 	T \n在富途查看：https://www.futunn.com/hk/stock/NET-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cIlAbltIizbiZMxol0I66
+UID:bnnB_3eRVcMaeOxLrIvr5
 SUMMARY:Palantir 盘后发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251103
 DESCRIPTION:财务季度：Sep/2025。\n代码：PLTR，公司：Palantir，行业: 软件。\n预计每股收益: $0.12，当前市值
-	: $416\,322\,371\,461。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PLTR 
+	: $428\,160\,360\,142。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PLTR 
 	\n在富途查看：https://www.futunn.com/hk/stock/PLTR-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:A4ErGV0ZsjbTXdIinf9fG
+UID:BONGS_gnKzflBpzsfxkd_
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251104
-DESCRIPTION:财务季度：Sep/2025。\n代码：AMD，公司：AMD，行业: 半导体。\n预计每股收益: $0.97，当前市值: $37
-	3\,627\,302\,518。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查
+DESCRIPTION:财务季度：Sep/2025。\n代码：AMD，公司：AMD，行业: 半导体。\n预计每股收益: $0.97，当前市值: $38
+	1\,352\,038\,478。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查
 	看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T8bknvnwuxkDtEqPSykNK
+UID:GPN1OWfRWGZvG4Mf_3cQA
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251105
 DESCRIPTION:财务季度：Sep/2025。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.14，当前市值: $17
-	5\,530\,637\,274。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
+	6\,473\,382\,233。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
 	看：https://www.futunn.com/hk/stock/ARM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:G2QbrBWtThzntRtfuk5iz
+UID:M9QcCKCRSGy76J1w-onPs
 SUMMARY:飞塔科技 盘后发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251105
 DESCRIPTION:财务季度：Sep/2025。\n代码：FTNT，公司：飞塔科技，行业: 云计算。\n预计每股收益: $0.55，当前市值: $
-	64\,872\,082\,354。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTNT \n在富
+	65\,078\,974\,183。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTNT \n在富
 	途查看：https://www.futunn.com/hk/stock/FTNT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:StQ19prGs2R2Hf-Mforob
-SUMMARY:RocketLab 发布财报
-DTSTAMP:20251024T044723Z
-DTSTART;VALUE=DATE:20251111
+UID:L3jDG9ig2YT3OKFJRoroq
+SUMMARY:RocketLab 盘后发布财报
+DTSTAMP:20251024T165628Z
+DTSTART;VALUE=DATE:20251110
 DESCRIPTION:财务季度：Sep/2025。\n代码：RKLB，公司：RocketLab，行业: 软件。\n预计每股收益: ($0.09)，当
-	前市值: $29\,032\,178\,758。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=RKL
+	前市值: $30\,472\,642\,675。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=RKL
 	B \n在富途查看：https://www.futunn.com/hk/stock/RKLB-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4vhSeBc_NG9tH8ofXzyQE
+UID:YdE1yqbfGhi4-v6aLqgj7
 SUMMARY:AST SpaceMobile 发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251113
 DESCRIPTION:财务季度：Sep/2025。\n代码：ASTS，公司：AST SpaceMobile，行业: 软件。\n预计每股收益: ($0
-	.14)，当前市值: $25\,580\,264\,651。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
+	.18)，当前市值: $25\,712\,916\,339。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
 	ol=ASTS \n在富途查看：https://www.futunn.com/hk/stock/ASTS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xAcBQEbHTZa59j38Iswek
+UID:VAQbXDd2NYZiWxU3NDeTV
 SUMMARY:英伟达 发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251119
 DESCRIPTION:财务季度：Oct/2025。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $1.17，当前市值: $4
-	\,380\,804\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
+	\,426\,488\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
 	n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:S463NUWJmSEU8Z0clGe5Q
+UID:X9KpvE4cuPTrvzL_o-7X4
 SUMMARY:Palo Alto 发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251119
 DESCRIPTION:财务季度：Oct/2025。\n代码：PANW，公司：Palo Alto，行业: 云计算。\n预计每股收益: $0.50，当前
-	市值: $142\,087\,738\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PAN
+	市值: $143\,826\,878\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PAN
 	W \n在富途查看：https://www.futunn.com/hk/stock/PANW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +182,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T2ePWXRf4ol7S07YSX6Gc
+UID:99_1EHTVmS5xmMN0UAh3Y
 SUMMARY:拼多多 发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251120
 DESCRIPTION:财务季度：Sep/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.99，当前市值: $1
-	84\,639\,218\,848。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
+	89\,224\,676\,920。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
 	查看：https://www.futunn.com/hk/stock/PDD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -198,12 +198,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7IC4WhmbgoqZQEGkj7h3Y
+UID:brzNZnlf_O14iGBz0ckah
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20251024T044723Z
+DTSTAMP:20251024T165628Z
 DTSTART;VALUE=DATE:20251121
 DESCRIPTION:财务季度：Sep/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $0.49，当前市值: 
-	$383\,017\,091\,899。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
+	$396\,965\,139\,862。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
 	在富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
