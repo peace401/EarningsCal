@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:bJguBCZpgmO54VC-PfKZj
+UID:TMT8jkfgA6amWQeQgKtr2
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20251224T045830Z
+DTSTAMP:20251224T165215Z
 DTSTART;VALUE=DATE:20251125
 DESCRIPTION:财务季度：Sep/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $0.49，当前市值: 
 	$362\,579\,968\,643。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:urmHCd8ev7wsYaLHAJqdT
+UID:XgdQd78Iic_vdau2UY3ei
 SUMMARY:Zscaler 发布财报
-DTSTAMP:20251224T045830Z
+DTSTAMP:20251224T165215Z
 DTSTART;VALUE=DATE:20251125
 DESCRIPTION:财务季度：Oct/2025。\n代码：ZS，公司：Zscaler，行业: 云计算。\n预计每股收益: ($0.05)，当前市值
 	: $45\,864\,497\,448。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ZS \n在
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9G5zNicETbVewm_yLm7K6
+UID:OicWwNydI_cLxAgzzTM5p
 SUMMARY:CrowdStrike 发布财报
-DTSTAMP:20251224T045830Z
+DTSTAMP:20251224T165215Z
 DTSTART;VALUE=DATE:20251202
 DESCRIPTION:财务季度：Oct/2025。\n代码：CRWD，公司：CrowdStrike，行业: 云计算。\n预计每股收益: $0.07，
 	当前市值: $129\,630\,877\,567。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=C
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:x0l8ichXhNByZxI2t6Y-Z
+UID:Z5snSKVcvT_sUG172E0om
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20251224T045830Z
+DTSTAMP:20251224T165215Z
 DTSTART;VALUE=DATE:20251203
 DESCRIPTION:财务季度：Oct/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.76)，当前市值: $
 	2\,069\,123\,937。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eO3SS8fImmrbaMtagJ7G3
+UID:GscAAsBAnpsxmfg2hpbs8
 SUMMARY:博通 发布财报
-DTSTAMP:20251224T045830Z
+DTSTAMP:20251224T165215Z
 DTSTART;VALUE=DATE:20251211
 DESCRIPTION:财务季度：Oct/2025。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $1.49，当前市值: $1\
 	,919\,027\,473\,990。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:asv_IRUtxlM4VNlCOVTxN
+UID:6pk-VlRIaNCvI-dx7-vx0
 SUMMARY:台积电 发布财报
-DTSTAMP:20251224T045830Z
+DTSTAMP:20251224T165215Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.71，当前市值: $1\
-	,521\,110\,400\,925。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,540\,145\,027\,124。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
