@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:LW9uiZq3mKe_kAuV4eIZ-
+UID:g5ZfOg-64XJ7CKCAyAJiI
 SUMMARY:博通 发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260304
 DESCRIPTION:财务季度：Jan/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $1.67，当前市值: $1\
 	,503\,695\,897\,388。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MtTInKMSsH5eeVyHhV-h7
+UID:NZM4NfTaYqdinqw8plb6b
 SUMMARY:Rubrik 发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260312
 DESCRIPTION:财务季度：Jan/2026。\n代码：RBRK，公司：Rubrik，行业: 云计算。\n预计每股收益: ($0.53)，当前市
 	值: $10\,811\,646\,261。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=RBRK 
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:en8PLAh_YxjA0FHgoJyGF
+UID:2siTR3QjOkM-kH5JH405t
 SUMMARY:美光 发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260318
 DESCRIPTION:财务季度：Feb/2026。\n代码：MU，公司：美光，行业: 半导体。\n预计每股收益: $8.64，当前市值: $519\
 	,681\,391\,082。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在富途查看：h
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-Iu1p0Po9rCfcjcLLsGh7
+UID:fo_RulhxdVFo5x224hIcA
 SUMMARY:BOSS直聘 发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260318
 DESCRIPTION:财务季度：Dec/2025。\n代码：BZ，公司：BOSS直聘，行业: 人力资源。\n预计每股收益: $0.25，当前市值: 
 	$5\,951\,531\,774。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途查
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GsAY9FuTpIYxFiKrdJWQZ
+UID:vtYu8fztn7lo4ziRrSL9Q
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260319
 DESCRIPTION:财务季度：Dec/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.75，当前市值: 
 	$288\,429\,005\,054。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CZhoDbqdnCoOzBimnEbkC
+UID:2e1EPeBf2lL9tOTY08N--
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260325
 DESCRIPTION:财务季度：Dec/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $3.21，当前市值: $1
 	45\,669\,923\,466。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lofPkGIqkXZvRYBsTaIHC
+UID:SIA8sOisiFfz0JLDUvvtd
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.27，当前市值: $1\
 	,771\,153\,814\,826。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0kZwpdlCefJkVncDFB43z
+UID:zAMESyDlm301EpmTjmg5C
 SUMMARY:联合健康 盘前发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260421
 DESCRIPTION:财务季度：Mar/2026。\n代码：UNH，公司：联合健康，行业: 生物医药。\n预计每股收益: $6.46，当前市值: $
 	248\,685\,026\,369。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Sf7GfyDI5lG1veLrJ_IcN
+UID:UtGSPpe6zHilF-yIjjv7q
 SUMMARY:谷歌 发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：谷歌，行业: 人工智能。\n预计每股收益: $2.76，当前市值: $3
 	\,597\,526\,830\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yg1uvdTt7_ZmH_GrZ2BaC
+UID:7Vsq9qQ1cMoks6KTHsh3a
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260428
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSLA，公司：特斯拉，行业: 人工智能。\n预计每股收益: $0.24，当前市值: $
 	1\,430\,652\,218\,220。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -166,11 +166,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:k95EPh97GGMa_Td2HJE0S
-SUMMARY:Robinhood 发布财报
-DTSTAMP:20260403T060011Z
-DTSTART;VALUE=DATE:20260429
-DESCRIPTION:财务季度：Mar/2026。\n代码：HOOD，公司：Robinhood，行业: 金融科技。\n预计每股收益: $0.54，当
+UID:7rDEJYbULfY_eA4YkqQ3Z
+SUMMARY:Robinhood 盘后发布财报
+DTSTAMP:20260403T170712Z
+DTSTART;VALUE=DATE:20260428
+DESCRIPTION:财务季度：Mar/2026。\n代码：HOOD，公司：Robinhood，行业: 金融科技。\n预计每股收益: $0.52，当
 	前市值: $63\,120\,621\,223。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HOO
 	D \n在富途查看：https://www.futunn.com/hk/stock/HOOD-US 
 STATUS:CONFIRMED
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0obj9e0tmeUwPb1NzOA82
+UID:TeBYwpIpViv0A--LkPMjT
 SUMMARY:礼来 盘前发布财报
-DTSTAMP:20260403T060011Z
+DTSTAMP:20260403T170712Z
 DTSTART;VALUE=DATE:20260430
 DESCRIPTION:财务季度：Mar/2026。\n代码：LLY，公司：礼来，行业: 生物医药。\n预计每股收益: $7.54，当前市值: $90
 	1\,848\,518\,292。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LLY \n在富途查
