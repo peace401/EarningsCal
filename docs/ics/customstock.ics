@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:DjKLvJ6xnA9GUwudQo2nk
+UID:2e6hFRZdwdyCNGT5Wnhsg
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260513
 DESCRIPTION:财务季度：Mar/2026。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.02，当前市值: 
 	$336\,716\,038\,646。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oO-GaCNvPbR5fEIToDnz-
+UID:pbXOSQ9jvikNjuDrLuX55
 SUMMARY:英伟达 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $1.70，当前市值: $5
 	\,433\,034\,330\,281。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:p8i9eGX9pEskrk9u8dK_5
+UID:EMPXq7_z4_PSGUO3_q3MV
 SUMMARY:BOSS直聘 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Mar/2026。\n代码：BZ，公司：BOSS直聘，行业: 人力资源。\n预计每股收益: $0.19，当前市值: 
 	$6\,511\,676\,241。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途查
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2IpyLXFmSZSWr2NVqXnAo
+UID:I3ZeQlMEfHHV84vTWnWFI
 SUMMARY:Zscaler 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260526
 DESCRIPTION:财务季度：Apr/2026。\n代码：ZS，公司：Zscaler，行业: 云计算。\n预计每股收益: ($0.04)，当前市值
 	: $29\,681\,963\,774。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ZS \n在
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T35seapTJIGGiE9mamsow
+UID:Tw26Lyz4tPJ8LCAMn7nvQ
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Mar/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.03，当前市值: $1
 	23\,280\,367\,574。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Oplgf6SXbxmlV-bHYmWdp
+UID:4zChICZk13bq_duL8_RnA
 SUMMARY:Palo Alto 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260602
 DESCRIPTION:财务季度：Apr/2026。\n代码：PANW，公司：Palo Alto，行业: 云计算。\n预计每股收益: $0.43，当前
 	市值: $242\,498\,880\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PAN
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NG6empv6snm1DWgY2HY4H
+UID:bdOSfQBON1mlnucp6cESN
 SUMMARY:博通 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.02，当前市值: $2\
 	,268\,995\,033\,818。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:03EN1S9L-m356whc5yR8b
+UID:FuX6KUsEwABxnRTwfT99d
 SUMMARY:CrowdStrike 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：CRWD，公司：CrowdStrike，行业: 云计算。\n预计每股收益: $0.13，
 	当前市值: $190\,294\,048\,465。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=C
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DSVKm05mPbTOF5YBuoq77
+UID:PVkzhZkAZLkJ996T_Jbae
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.74)，当前市值: $
 	1\,556\,068\,988。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:t4K0P0kahfBCWDRs1LXFo
+UID:9tqs17O_L-Ci70y1Cm6YF
 SUMMARY:Rubrik 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260604
 DESCRIPTION:财务季度：Apr/2026。\n代码：RBRK，公司：Rubrik，行业: 云计算。\n预计每股收益: ($0.44)，当前市
 	值: $15\,847\,357\,372。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=RBRK 
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JSRTyqSi37r5vDYHfg-bn
+UID:z_PX8Phu2-H9h6tgs-HoE
 SUMMARY:携程 发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260615
-DESCRIPTION:财务季度：Mar/2026。\n代码：TCOM，公司：携程，行业: 在线旅游。\n预计每股收益: $0.74，当前市值: $2
-	9\,621\,333\,643。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TCOM \n在富途
+DESCRIPTION:财务季度：Mar/2026。\n代码：TCOM，公司：携程，行业: 在线旅游。\n预计每股收益: $0.74，当前市值: $3
+	0\,206\,959\,499。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TCOM \n在富途
 	查看：https://www.futunn.com/hk/stock/TCOM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +182,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YM-fZQmCUnEjNNVg5AObi
+UID:F7972VezuBRWqIW6HM1yh
 SUMMARY:美光 盘后发布财报
-DTSTAMP:20260611T090412Z
+DTSTAMP:20260611T192106Z
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光，行业: 半导体。\n预计每股收益: $19.40，当前市值: $1\,
-	055\,435\,020\,990。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在富途
+	005\,803\,445\,406。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在富途
 	查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
