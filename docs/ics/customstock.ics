@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xR8pjlrh1ihJYel8AZvl1
-SUMMARY:Rubrik 发布财报
-DTSTAMP:20260926T192138Z
-DTSTART;VALUE=DATE:20260827
-DESCRIPTION:财务季度：Jul/2026。\n代码：RBRK，公司：Rubrik，行业: 云计算。\n预计每股收益: ($0.34)，当前市
-	值: $22\,027\,774\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=RBRK 
-	\n在富途查看：https://www.futunn.com/hk/stock/RBRK-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:vIlHSzBkzvT2jxKlktGZm
+UID:lE3NylCE3ZRRjPkOEGxE5
 SUMMARY:Palo Alto 发布财报
-DTSTAMP:20260926T192138Z
+DTSTAMP:20260927T101126Z
 DTSTART;VALUE=DATE:20260901
 DESCRIPTION:财务季度：Jul/2026。\n代码：PANW，公司：Palo Alto，行业: 云计算。\n预计每股收益: $0.51，当前
 	市值: $295\,103\,365\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PAN
@@ -38,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Vg4Hm4RQMusP6dM-h1Zta
+UID:FlX_OkFrj-TzX1GmiqOty
 SUMMARY:博通 发布财报
-DTSTAMP:20260926T192138Z
+DTSTAMP:20260927T101126Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.83，当前市值: $1\
 	,747\,173\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -54,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:L0Sms7eKVFNfY1u8jr1vV
+UID:jU7KsBiMbnEY1LHRj_MZ3
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260926T192138Z
+DTSTAMP:20260927T101126Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.64)，当前市值: $
 	1\,684\,117\,250。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -70,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:whIhvz2Z1vKAR3-nE8rRg
+UID:95SXWswmPaa-0XMcJ26vY
 SUMMARY:Zscaler 发布财报
-DTSTAMP:20260926T192138Z
+DTSTAMP:20260927T101126Z
 DTSTART;VALUE=DATE:20260903
 DESCRIPTION:财务季度：Jul/2026。\n代码：ZS，公司：Zscaler，行业: 云计算。\n预计每股收益: $0.06，当前市值: 
 	$28\,751\,953\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ZS \n在富途
@@ -86,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sIqcJs-mAd7Zzn3wr4q27
+UID:Ci7RmSrd2Ahos1uYGV2A0
 SUMMARY:携程 发布财报
-DTSTAMP:20260926T192138Z
+DTSTAMP:20260927T101126Z
 DTSTART;VALUE=DATE:20260915
 DESCRIPTION:财务季度：Jun/2026。\n代码：TCOM，公司：携程，行业: 在线旅游。\n预计每股收益: $0.84，当前市值: $2
 	4\,715\,929\,600。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TCOM \n在富途
@@ -102,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Sx4Mpedy-Qq3AqOrWOjsp
+UID:etu3rbliioP_Z86iZBy6t
 SUMMARY:美光 盘后发布财报
-DTSTAMP:20260926T192138Z
+DTSTAMP:20260927T101126Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光，行业: 半导体。\n预计每股收益: $31.24，当前市值: $1\,
 	220\,343\,230\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在富途
@@ -118,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FZ9FICbzH2bPSA_vfn3k2
+UID:Yv1P6Jp1286c5VfEjKkvq
 SUMMARY:联合健康 盘前发布财报
-DTSTAMP:20260926T192138Z
+DTSTAMP:20260927T101126Z
 DTSTART;VALUE=DATE:20261013
 DESCRIPTION:财务季度：Sep/2026。\n代码：UNH，公司：联合健康，行业: 生物医药。\n预计每股收益: $4.12，当前市值: $
 	336\,607\,052\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
@@ -134,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IKQoTvA27SncxhNxfgj5H
+UID:s6zn_sjVaZs9Qb4rQKZwi
 SUMMARY:台积电 发布财报
-DTSTAMP:20260926T192138Z
+DTSTAMP:20260927T101126Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,339\,891\,580\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
