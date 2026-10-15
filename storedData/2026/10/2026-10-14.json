@@ -2,9 +2,9 @@
   "date": "2026-10-14",
   "data": [
     {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "$6.41",
-      "time": "time-pre-market",
+      "eps": "$14.89",
+      "surprise": "19.41",
+      "time": "time-not-supplied",
       "symbol": "ASML",
       "name": "ASML Holding N.V.",
       "marketCap": "$662,055,030,000",
@@ -13,9 +13,9 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "$1.06",
-      "time": "time-pre-market",
+      "eps": "$1.08",
+      "surprise": "-2.7",
+      "time": "time-not-supplied",
       "symbol": "BAC",
       "name": "Bank of America Corporation",
       "marketCap": "$377,328,697,000",
@@ -24,9 +24,9 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "$2.80",
-      "time": "time-pre-market",
+      "eps": "$3.03",
+      "surprise": "7.07",
+      "time": "time-not-supplied",
       "symbol": "MS",
       "name": "Morgan Stanley",
       "marketCap": "$293,130,502,000",
@@ -35,9 +35,9 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/14/2025",
-      "lastYearEPS": "$11.55",
-      "time": "time-pre-market",
+      "eps": "$15.93",
+      "surprise": "13.7",
+      "time": "time-not-supplied",
       "symbol": "BLK",
       "name": "BlackRock, Inc.",
       "marketCap": "$165,109,219,000",
@@ -46,9 +46,9 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "$4.05",
-      "time": "time-pre-market",
+      "eps": "$4.60",
+      "surprise": "3.14",
+      "time": "time-not-supplied",
       "symbol": "PGR",
       "name": "Progressive Corporation (The)",
       "marketCap": "$129,576,141,000",
@@ -57,9 +57,9 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "10/13/2025",
-      "lastYearEPS": "$0.29",
-      "time": "time-pre-market",
+      "eps": "$0.35",
+      "surprise": "2.94",
+      "time": "time-not-supplied",
       "symbol": "FAST",
       "name": "Fastenal Company",
       "marketCap": "$59,015,799,000",
@@ -68,9 +68,9 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/17/2025",
-      "lastYearEPS": "$2.78",
-      "time": "time-pre-market",
+      "eps": "$3.69",
+      "surprise": "1.1",
+      "time": "time-not-supplied",
       "symbol": "STT",
       "name": "State Street Corporation",
       "marketCap": "$47,825,576,000",
@@ -79,8 +79,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "$0.61",
+      "eps": "$0.61",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "HOMB",
       "name": "Home BancShares, Inc.",
@@ -90,8 +90,19 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/14/2025",
-      "lastYearEPS": "$1.21",
+      "eps": "$3.21",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "WINA",
+      "name": "Winmark Corporation",
+      "marketCap": "$1,014,356,670",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$1.21",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "EQBK",
       "name": "Equity Bancshares, Inc.",
@@ -101,9 +112,9 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/14/2025",
-      "lastYearEPS": "$0.03",
-      "time": "time-pre-market",
+      "eps": "$0.02",
+      "surprise": "-60",
+      "time": "time-not-supplied",
       "symbol": "SOTK",
       "name": "Sono-Tek Corporation",
       "marketCap": "$111,903,072",
@@ -112,8 +123,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "11/10/2025",
-      "lastYearEPS": "($0.27)",
+      "eps": "($0.27)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CMTL",
       "name": "Comtech Telecommunications Corp.",
@@ -123,8 +134,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.15)",
+      "eps": "($0.15)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "EDUC",
       "name": "Educational Development Corporation",
@@ -134,8 +145,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($99.99)",
+      "eps": "($99.99)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "NXTT",
       "name": "Next Technology Holding Inc.",
